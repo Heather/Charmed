@@ -1,5 +1,8 @@
+/bin
 /tools/ctodo
 /tools/Heather
+/tools/emo
+todo.cmd
 
 /*.dll
 /*.db3
